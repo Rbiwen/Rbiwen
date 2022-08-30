@@ -8,4 +8,5 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 ![zh-hike's github activity graph](https://activity-graph.herokuapp.com/graph?username=zh-hike&theme=react-dark&area=true&custom_title=zh-hike's%20Contribution%20Graph)
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+<center>Visitors</center>
+<center> ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) </center>
