@@ -9,6 +9,6 @@
 ![zh-hike's github activity graph](https://activity-graph.herokuapp.com/graph?username=zh-hike&theme=react-dark&area=true&custom_title=zh-hike's%20Contribution%20Graph)
 
 <p align="center"> 
-  Visitors (From 20/12/2021):<br>
+  Visitors (From 30/08/2022):<br>
   <img src="https://profile-counter.glitch.me/zh-hike/count.svg" />
 </p>
