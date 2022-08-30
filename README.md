@@ -8,5 +8,7 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 ![zh-hike's github activity graph](https://activity-graph.herokuapp.com/graph?username=zh-hike&theme=react-dark&area=true&custom_title=zh-hike's%20Contribution%20Graph)
 
-<center>Visitors</center>
-<img src='https://profile-counter.glitch.me/all-smile/count.svg'>  </img>
+<p align="center"> 
+  Visitors (From 20/12/2021):<br>
+  <img src="https://profile-counter.glitch.me/AllenWrong/count.svg" />
+</p>
