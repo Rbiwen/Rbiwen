@@ -1,13 +1,7 @@
 ## Hey 👋, This is zh-hike
-<!-- ![zh-hike's GitHub stats](https://github-readme-stats.vercel.app/api?username=zh-hike&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zh-hike&layout=compact)](https://github.com/zh-hike) -->
-## 📈 My GitHub Stats
+[![zh-hike's GitHub stats]](https://github-readme-stats.vercel.app/api/?username=zh-hike&theme=shades-of-purple&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zh-hike&layout=compact)](https://github.com/zh-hike)
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=zh-hike&theme=shades-of-purple&show_icons=true&count_private=true" alt="zh-hike's GitHub Stats">
-    <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh-hike&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="zh-hike's Top Langs">
-</p>
 
 ## 👨‍💻 My GitHub activities of last 31 days.
 
