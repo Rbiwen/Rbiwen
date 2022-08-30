@@ -10,5 +10,5 @@
 
 <p align="center"> 
   Visitors (From 20/12/2021):<br>
-  <img src="https://profile-counter.glitch.me/AllenWrong/count.svg" />
+  <img src="https://profile-counter.glitch.me/zh-hike/count.svg" />
 </p>
