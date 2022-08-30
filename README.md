@@ -2,4 +2,7 @@
 ![zh-hike's GitHub stats](https://github-readme-stats.vercel.app/api?username=zh-hike&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zh-hike&layout=compact)](https://github.com/zh-hike)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zh-hike&repo=SAFF)](https://github.com/zh-hike/SAFF)
+## 👨‍💻 My GitHub activities of last 31 days.
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+![zh-hike's github activity graph](https://activity-graph.herokuapp.com/graph?username=zh-hike&theme=react-dark&area=true&custom_title=Alex%20Pu's%20Contribution%20Graph)
