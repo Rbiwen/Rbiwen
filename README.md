@@ -12,3 +12,5 @@
   Visitors (From 30/08/2022):<br>
   <img src="https://profile-counter.glitch.me/zh-hike/count.svg" />
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zh-hike&repo=GANs)](https://github.com/zh-hike/GANs)
