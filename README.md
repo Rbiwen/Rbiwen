@@ -13,4 +13,4 @@
   <img src="https://profile-counter.glitch.me/zh-hike/count.svg" />
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zh-hike&repo=GANs)](https://github.com/zh-hike/GANs)
+[![GANs](https://github-readme-stats.vercel.app/api/pin/?username=zh-hike&repo=GANs)](https://github.com/zh-hike/GANs)
