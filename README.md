@@ -14,4 +14,4 @@
 </p>
 
 [![GANs](https://github-readme-stats.vercel.app/api/pin/?username=zh-hike&repo=GANs)](https://github.com/zh-hike/GANs)
-[![SAFF]()https://github-readme-stats.vercel.app/api/pin/?username=zh-hike&repo=SAFF](https://github.com/zh-hike/SAFF)
+[![SAFF](https://github-readme-stats.vercel.app/api/pin/?username=zh-hike&repo=SAFF)](https://github.com/zh-hike/SAFF)
